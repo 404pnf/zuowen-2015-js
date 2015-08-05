@@ -1,0 +1,7 @@
+{
+	"execMap": {
+		"js": "node --harmony --use_strict",
+		"py": "python",
+		"rb": "ruby"
+	}
+}
